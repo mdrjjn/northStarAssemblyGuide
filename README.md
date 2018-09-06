@@ -17,8 +17,11 @@ Here is how to get in touch with other people around the world working on North 
 
 ## Sourcing The Parts
 
-- STL Files for the headset.
+- STL Files (except for the lenses)
 All the files I used 
+
+- The Lenses
+ Thanks to @Eric in the Discord channel we have a high res mesh for those who want to 3D print the lenses. I have reflected his design to produce the left lense as well. Please find the files in this repo.
 ## Assembly Tips
 
 ### Video 
