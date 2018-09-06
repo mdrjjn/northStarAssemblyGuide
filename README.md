@@ -14,14 +14,21 @@ In June 2018 Leap Motion [made public](http://blog.leapmotion.com/north-star-ope
 Here is how to get in touch with other people around the world working on North Star:
 - [North Star Forum on Leap Motion]()
 - [Discord Channel](https://discord.gg/EhQF54Q)
+
 ## Sourcing The Parts
 
+- STL Files for the headset.
+All the files I used 
 ## Assembly Tips
 
-## Video 
+### Video 
 Here is the video of how this particular headset was assembled. It is by no means the only way to do it but such material would have helped me a lot when I started out and I hope you find it to be a good refernce point.
 
 [LINK TO THE VIDEO](https://www.youtube.com/watch?v=CKpXE_DHC50&t=3s)
+
+## Software
+
+Currently working on this part. Stay tuned!
 
 ## Credits
 
