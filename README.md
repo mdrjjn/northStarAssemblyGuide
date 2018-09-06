@@ -21,6 +21,8 @@ Here is how to get in touch with other people around the world working on North 
 ## Video 
 Here is the video of how this particular headset was assembled. It is by no means the only way to do it but such material would have helped me a lot when I started out and I hope you find it to be a good refernce point.
 
+[LINK TO THE VIDEO](https://www.youtube.com/watch?v=CKpXE_DHC50&t=3s)
+
 ## Credits
 
 Ther is no way I could have done this myself and I would like to thank the following people for their contribution:
