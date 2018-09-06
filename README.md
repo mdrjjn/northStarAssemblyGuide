@@ -1,6 +1,7 @@
 # Northstar by Leap Motion Assembly Guide from a first timer
 
-Assembling the North Star Augmented Reality headset by Leap Motion using easily available parts within the United States. I knew nothing about several processes used so this is written from a perspective of someone who learned about it for the first time and aimed manly at those who are curious but have no idea where to begin.
+Assembling the North Star Augmented Reality headset by Leap Motion using easily available parts within the United States. I knew nothing about several processes used so this is written from a perspective of someone who learned about it for the first time and aimed manly at those who are curious but have no idea where to begin.  
+__If you find mistakes and/or suggestions, please do communicate them to me one way or the other!__
 
 ## Introduction
 
@@ -36,24 +37,46 @@ All the 3D printed parts (apart from the lenses) I got from the exii upgraded de
 
 ##### Lense Processing Tools
 
-[Sandpaper](https://www.amazon.com/Sandpaper-Precision-Polishing-Sanding-sandpaper/dp/B01M6A7D9A/ref=sr_1_1_sspa?ie=UTF8&qid=1533775121&sr=8-1-spons&keywords=3000+grit+sandpaper&psc=1)
-[Novus Pack](https://www.amazon.com/gp/product/B002UCYRZU/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
+[Sandpaper](https://www.amazon.com/Sandpaper-Precision-Polishing-Sanding-sandpaper/dp/B01M6A7D9A/ref=sr_1_1_sspa?ie=UTF8&qid=1533775121&sr=8-1-spons&keywords=3000+grit+sandpaper&psc=1)  
+[Novus Pack](https://www.amazon.com/gp/product/B002UCYRZU/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)  
 [Reflection Film](https://www.amazon.com/VViViD-One-Way-Bronze-Mirror-Self-Adhesive/dp/B076XHLKC6/ref=sr_1_1?rps=1&ie=UTF8&qid=1533776277&sr=8-1&keywords=window+mirror+film&refinements=p_85%3A2470955011)
+
+##### Other
+[Screws](https://www.amazon.com/gp/product/B075FQ5HV2/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1)  
+[Headgear](https://www.amazon.com/gp/product/B003V5KSNK/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1)
+
 ## Assembly Tips
 
-##### Processing the lenses
+### Video 
+Here is the video of how this particular headset was assembled. It is by no means the only way to do it but such material would have helped me a lot when I started out and I hope you find it to be a good refernce point.
 
+[LINK TO THE VIDEO](https://www.youtube.com/watch?v=CKpXE_DHC50&t=3s)
+
+##### Processing the lenses
 
 In order to turn our sla-printed translucent lenses into a glass-like lense we will need to polish them. The procedure I used is to begin with wet sandpaper of 1000 grit and move in 500 grit increments up to 2500, taking about 10 minutes at each interval. (Fun fact: It is called "wet sandpaper" because you use water to clean the sanded material off of the sandpaper. the more you know).  
 Then move to Novus 3 polishing and spend a gooood time on it. Repeat the process with Novus 2. Welcome to continue to Novus 1 but I notice very little difference. One tip is that when it comes to polishing, all the magic happens at the polishing liquid level, so if you have time, invest it into the Novus-n stage.
 
 Applying the film  
 
-I did not find an easy and good way to use this.
-### Video 
-Here is the video of how this particular headset was assembled. It is by no means the only way to do it but such material would have helped me a lot when I started out and I hope you find it to be a good refernce point.
+I did not find an easy and good way to use this. @BurgersHouse found quite a clever way to do this:
 
-[LINK TO THE VIDEO](https://www.youtube.com/watch?v=CKpXE_DHC50&t=3s)
+Application for 50/50 film   _It’s All About The Air Bubble_:  
+1. Cut the exact shape of the lens + 2mm around the edges for overhang
+2. Pre heat the lens, ( light heat from a Heat Gun).
+3. Place film directly down on the lens. You are looking to touch 3 sides and close off the edges, this will start to create an Air Bubble.!
+4. Keep closing off the edges and make the air bubble smaller and smaller. (You must not let the air bubble collapse / looses to much air at once).
+5. Keep moving the air out till a defined exit location appears. ( this always seems to appear as indicated, mid way on the bride of the nose section) 
+6. Use a craft knife to shave off the edges.
+7. Any final fine air lines “slice” and press flat or “pop” air out.
+
+I show my take on it in the video. The result is not really 100 so feel free to erxperiment to find better way.
+__use a super glue when fixing the lenses inside the healmet.__
+
+##### Putting together the rest of the headset
+The piecing together part is pretty intuitive and is shown quite clearly in the video, just __make sure to use self tapping screws__ because the 3D printed parts do not have perfect grooves.  
+
+Also, the front/top of the headset has to be fixed to the headgear too (like shown in the video), otherwise it will slide down.
 
 ## Software
 
