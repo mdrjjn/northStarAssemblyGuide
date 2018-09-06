@@ -18,8 +18,7 @@ Here is how to get in touch with other people around the world working on North 
 ## Sourcing The Parts
 
 - STL Files (except for the lenses)
-All the files I used 
-
+All the 3D printed parts (apart from the lenses) I got from the exii upgraded design. Their main difference form the official design in the shape of the Screen holder—the exii design uses raspberry pi screens.
 - The Lenses
  Thanks to @Eric in the Discord channel we have a high res mesh for those who want to 3D print the lenses. I have reflected his design to produce the left lense as well. Please find the files in this repo.
 ## Assembly Tips
