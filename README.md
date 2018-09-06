@@ -13,7 +13,7 @@ In June 2018 Leap Motion [made public](http://blog.leapmotion.com/north-star-ope
 ### Community
 Here is how to get in touch with other people around the world working on North Star:
 - [North Star Forum on Leap Motion]()
-- [Discord Channel]
+- [Discord Channel](https://discord.gg/EhQF54Q)
 ## Sourcing The Parts
 
 ## Assembly Tips
