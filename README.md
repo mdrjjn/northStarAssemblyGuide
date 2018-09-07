@@ -95,5 +95,5 @@ Following members of the Discord Channel
 - @MojoAR
 - @Fazatron
 - @DavidH
-- @Bryan
+- @Bryan (@Bryanchrisbrown on Twitter)
 - @Eric
